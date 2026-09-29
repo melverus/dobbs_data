@@ -9,7 +9,7 @@ Analysis of maternal mortality and other adverse outcomes since the overturning 
   - *Natality* dataset: live births by state, race/ethnicity, and year *(natality_2016-2024.csv)*
   - *Underlying Cause of Death* dataset: maternal deaths by state, race/ethnicity, and year *(Cause_of_Death_2018-2024.csv)*
   - Years used: 2018–2024 (pre- and post-Dobbs)
-- **KFF's Abortion in the United States Dashboard** — [kff.org]([https://states.guttmacher.org/policies/](https://www.kff.org/womens-health-policy/abortion-in-the-u-s-dashboard/))
+- **KFF's Abortion in the United States Dashboard** — [kff.org](https://www.kff.org/womens-health-policy/abortion-in-the-u-s-dashboard/)
   - State-level abortion policy classifications, used to group states into "restrictive" vs. "protective" buckets
   - Year used: 2026
  
